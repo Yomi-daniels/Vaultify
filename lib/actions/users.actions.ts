@@ -13,7 +13,7 @@ import { parseStringify } from "../utils";
 // 5. create a new user document if the user is a new user.
 // 6. Return the user's accounfId that wil be used to complete the login flow.
 // 7. Verify OTP and authenticate to login.
-
+ 
 
 // GET USER BY EMAIL FUNCTION
 
